@@ -1,0 +1,13 @@
+C:\Users\ManLab01\Desktop\Reference Materials\C#_NetworkPrograming\MyPMS\bin\Debug\MyPMS.exe.config
+C:\Users\ManLab01\Desktop\Reference Materials\C#_NetworkPrograming\MyPMS\bin\Debug\MyPMS.exe
+C:\Users\ManLab01\Desktop\Reference Materials\C#_NetworkPrograming\MyPMS\bin\Debug\MyPMS.pdb
+C:\Users\ManLab01\Desktop\Reference Materials\C#_NetworkPrograming\MyPMS\bin\Debug\MetroFramework.dll
+C:\Users\ManLab01\Desktop\Reference Materials\C#_NetworkPrograming\MyPMS\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ManLab01\Desktop\Reference Materials\C#_NetworkPrograming\MyPMS\obj\Debug\MyPMS.csproj.AssemblyReference.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#_NetworkPrograming\MyPMS\obj\Debug\MyPMS.MainForm.resources
+C:\Users\ManLab01\Desktop\Reference Materials\C#_NetworkPrograming\MyPMS\obj\Debug\MyPMS.Properties.Resources.resources
+C:\Users\ManLab01\Desktop\Reference Materials\C#_NetworkPrograming\MyPMS\obj\Debug\MyPMS.csproj.GenerateResource.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#_NetworkPrograming\MyPMS\obj\Debug\MyPMS.csproj.CoreCompileInputs.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#_NetworkPrograming\MyPMS\obj\Debug\MyPMS.csproj.CopyComplete
+C:\Users\ManLab01\Desktop\Reference Materials\C#_NetworkPrograming\MyPMS\obj\Debug\MyPMS.exe
+C:\Users\ManLab01\Desktop\Reference Materials\C#_NetworkPrograming\MyPMS\obj\Debug\MyPMS.pdb
